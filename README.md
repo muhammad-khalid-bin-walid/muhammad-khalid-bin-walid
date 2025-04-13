@@ -1,12 +1,24 @@
-👋 Greetings, I’m 
- @muhammad-khalid-bin-walid
+👋 Greetings, I am @muhammad-khalid-bin-walid I am a seasoned Ethical Hacker and Penetration Tester, dedicated to fortifying organizational security by expertly identifying and neutralizing cyber vulnerabilities. My expertise spans advanced threat intelligence, cutting-edge cybersecurity frameworks, and innovative defensive technologies, ensuring proactive risk mitigation against evolving threats.
 
-👀 I specialize in ethical hacking and penetration testing, dedicated to fortifying organizational defenses against cyber threats.
-🌱 I’m actively enhancing my expertise in advanced cybersecurity methodologies, threat intelligence, and cutting-edge defensive tools.
-💞 I’m eager to collaborate on initiatives aimed at bolstering system security, conducting rigorous penetration testing, or developing strategic risk mitigation frameworks.
-📫 How to reach me: mail: pentester.walid@gmail.com 
-😄 Pronouns: He/Him
-⚡ Professional Insight: I find immense value in transforming intricate security vulnerabilities into robust safeguards, ensuring resilience in dynamic threat landscapes.
+💡 Core Competencies:
+
+Cybersecurity Strategy – Designing and implementing robust security architectures
+
+Penetration Testing – Conducting comprehensive assessments to uncover and remediate vulnerabilities
+
+Threat Intelligence – Analyzing sophisticated attack patterns to develop proactive defense mechanisms
+
+💞 Seeking Collaboration On:
+
+Strategic security initiatives to enhance system resilience
+
+Rigorous penetration testing for optimal security posture
+
+Advanced risk mitigation strategies tailored to dynamic threat landscapes
+
+📫 Contact: Email: pentester.walid@gmail.com 😄 Pronouns: He/Him
+
+⚡ Professional Philosophy: I derive profound fulfillment from transforming complex security challenges into resilient, enduring safeguards, ensuring unwavering protection in an increasingly sophisticated cyber landscape.
 
 <!---
 muhammad-khalid-bin-walid/muhammad-khalid-bin-walid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
