@@ -1,171 +1,170 @@
-<!-- 
-  Muhammad Khalid Bin Walid – Junior Red Teamer | Penetration Tester | AI Security
-  Profile: https://github.com/muhammad-khalid-bin-walid
-  Last updated: February 2026
--->
-
-<!-- HEADER -->
+<!-- TOP BANNER: Ultra-Smooth Waving Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=header&text=MD.%20KHALID%20BIN%20WALID&fontSize=36&fontColor=ffffff&animation=twinkling" alt="Header Slice" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9d&height=180&section=header&text=MUHAMMAD%20KHALID%20BIN%20WALID&fontSize=42&animation=twinkling&fontColor=000000" />
 </div>
 
+<!-- TYPING ANIMATION: Neon Green Terminal Style -->
 <div align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4200&pause=1300&color=00ff9d&center=true&vCenter=true&width=620&lines=Junior+Red+Teamer;Penetration+Tester;Ethical+Hacker;AI+Security+Researcher;Adversary+Simulation+%26+Defense" 
-    alt="Typing Animation"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=650&lines=Junior+Red+Teamer;Penetration+Tester;AI+Security+Researcher;Adversarial+Simulation;Building+Resilient+Defenses" alt="Typing SVG" />
 </div>
 
 <br>
 
-<!-- AVATAR + SOCIALS -->
+<!-- PROFILE SCANNER EFFECT -->
 <p align="center">
-  <img 
-    src="https://github.com/muhammad-khalid-bin-walid.png" 
-    width="158" 
-    alt="Profile" 
-    style="border-radius:50%; border:3px solid #00ff9d; box-shadow:0 0 25px rgba(0,255,157,0.25);"
-  />
+  <img src="https://github.com/muhammad-khalid-bin-walid.png" width="180" style="border-radius: 50%; border: 5px solid #00ff9d; box-shadow: 0 0 40px rgba(0, 255, 157, 0.6);" alt="Profile Picture">
 </p>
 
+<!-- PREMIUM FLOATING BADGES -->
 <p align="center">
-  <strong>Junior Red Team Analyst • Ethical Hacker • Exploit Engineer • Penetration Tester</strong><br>
-  <em>Simulating real-world attacks to uncover vulnerabilities and strengthen defenses</em>
-</p>
-
-<div align="center">
   <a href="https://muhammad-khalid-bin-walid.github.io/Portfolio-Site/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-00ff9d?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio">
+    <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-000000?style=for-the-badge&logo=target&logoColor=00ff9d" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-khalid-bin-walid/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/muhammad-khalid-bin-walid">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://medium.com/@muhammadkhalidbinwalid">
-    <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    <img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="mailto:pentester.walid@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-00ff9d?style=for-the-badge&logo=gmail&logoColor=black" alt="Email">
+    <img src="https://img.shields.io/badge/ENCRYPTED_MAIL-00ff9d?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open to Work">
-</div>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DEPLOYMENT_STATUS-OPEN_TO_WORK-00ff9d?style=flat-square&logo=git&logoColor=black" />
+  <img src="https://img.shields.io/badge/LOCATION-REMOTE/HYBRID-white?style=flat-square&logo=googlemaps&logoColor=red" />
+</p>
 
 ---
 
-### 🛡️ Professional Summary
-
-Passionate junior red teamer and penetration tester with hands-on experience in ethical hacking, vulnerability assessment, and adversary emulation. Specialized in uncovering weaknesses across web applications, networks, Active Directory, cloud environments, and AI/LLM systems — always with a focus on realistic attack simulation and actionable remediation.
-
-**Key Strengths**:
-- Web & API penetration testing (OWASP Top 10 mastery)
-- Recon automation & OSINT tooling
-- LLM prompt injection, jailbreaking & model security
-- Active Directory exploitation chains & post-exploitation
-- Report writing & threat intelligence
-
-**Certifications** (selected):
-- Ethical Hacking For Professionals (Byte Capsule, 2024)
-- Professional SOC Certification (Byte Capsule, 2024)
-- Professional Bug Hunting & Advanced Web App Security (Byte Capsule, 2025)
-- Generative AI Mastermind (Outskill, 2024)
+### 🛡️ **Operational Intelligence Overview**
+I am a **passionate Junior Red Teamer and Penetration Tester** dedicated to identifying vulnerabilities before the adversary does. My methodology combines traditional **offensive security** with cutting-edge **AI/ML security research**, ensuring that modern intelligent systems remain resilient against prompt injections and model jailbreaking.
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 🏆 **GitHub Achievement Trophies**
+<!-- Fixed Trophy Section: High Visibility -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammad-khalid-bin-walid&theme=tokyonight&no-bg=true&margin-w=15&column=7&rank=-C" alt="GitHub Trophies" />
+</p>
 
+---
+
+### 📊 **Security Operations Dashboard**
 <div align="center">
-  <table>
+  <table border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=muhammad-khalid-bin-walid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00ff9d&icon_color=00ff9d&text_color=a9b1d6&bg_color=1a1b26" height="180" alt="Stats">
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=muhammad-khalid-bin-walid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00ff9d&icon_color=00ff9d&bg_color=0D1117" height="195" alt="Stats Card" />
       </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-khalid-bin-walid&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff9d&text_color=a9b1d6&langs_count=7" height="180" alt="Top Languages">
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-khalid-bin-walid&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff9d&bg_color=0D1117&langs_count=8" height="195" alt="Languages Card" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-khalid-bin-walid&theme=tokyonight&hide_border=true&stroke=00ff9d&fire=00ff9d&ring=00ff9d&bg_color=0D1117" width="100%" alt="Streak Card" />
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-khalid-bin-walid&theme=tokyonight&hide_border=true&fire=00ff9d&ring=00ff9d&stroke=1a1b26&dates=2025-01-01,2026-12-31" width="540" alt="Streak">
 </div>
 
 ---
 
-### 🚀 Featured Projects
-
-(From my [Portfolio](https://muhammad-khalid-bin-walid.github.io/Portfolio-Site/))
-
-- **darkness_recon** — Advanced Shell-based reconnaissance automation for stealthy OSINT, subdomain discovery, and target profiling in red team ops.
-- **Custom Nuclei Templates** — Tailored vulnerability detection rules for Nuclei, targeting misconfigurations, CVEs, and emerging threats.
-- **Kali Linux Full Updater** — Reliable one-click Shell script to keep Kali fully updated with the latest pentesting tools.
-- **Advanced Network Scanner** — Multi-threaded Python tool with service fingerprinting, OS detection, and automated vuln scanning.
-- **Hybrid Password Cracker** — GPU-accelerated cracker combining dictionary, brute-force, and mask attacks.
-- **Web Application Scanner** — Custom scanner focused on XSS, SQLi, LFI/RFI, RCE with evasion payloads.
-- **Pentest Report Generator** — Automated Markdown/HTML report builder with executive summaries and remediation tracking.
-
-Explore full source code and documentation in my repositories.
+### 🚀 **Mission Critical Projects**
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+        <h4>🌑 darkness_recon</h4>
+        <p>A high-performance Bash framework for stealthy OSINT and automated subdomain mapping.</p>
+        <img src="https://img.shields.io/badge/RedTeam-Tool-00ff9d?style=flat-square" />
+      </td>
+      <td width="50%" valign="top">
+        <h4>🤖 Adversarial AI Lab</h4>
+        <p>Research into <b>LLM Jailbreaking</b> and prompt injection mitigation strategies.</p>
+        <img src="https://img.shields.io/badge/AI-Security-blue?style=flat-square" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h4>🕸️ Nuclei Custom Matrix</h4>
+        <p>Advanced YAML templates for identifying zero-day misconfigurations and service leaks.</p>
+        <img src="https://img.shields.io/badge/Vuln-Research-red?style=flat-square" />
+      </td>
+      <td width="50%" valign="top">
+        <h4>⚡ Kali Full-Sync</h4>
+        <p>Reliable automation script for synchronizing state-of-the-art offensive toolsets.</p>
+        <img src="https://img.shields.io/badge/Dev-Ops-orange?style=flat-square" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### ⚔️ Domain Expertise
-
+### ⚔️ **Technical Domain Expertise**
 <table align="center">
   <tr>
-    <th width="33%">Offensive Security</th>
-    <th width="33%">AI & Model Security</th>
-    <th width="33%">Infrastructure & Cloud</th>
+    <th width="33%">Offensive Operations</th>
+    <th width="33%">AI Security & ML</th>
+    <th width="33%">Infrastructure/Cloud</th>
   </tr>
   <tr>
     <td valign="top">
-      • Web/API Pentesting (OWASP Top 10)<br>
+      • Web/API Penetration Testing<br>
       • Active Directory Exploitation<br>
-      • Network Red Teaming<br>
-      • Post-Exploitation & Lateral Movement<br>
+      • Red Team Scenario Planning<br>
+      • Post-Exploitation & C2<br>
       • Recon & OSINT Automation
     </td>
     <td valign="top">
-      • Prompt Injection & Jailbreaking<br>
-      • Model Poisoning & Extraction<br>
-      • Adversarial Attacks & Evasion<br>
-      • LLM Guardrail & Safety Testing<br>
-      • AI Red Teaming Exercises
+      • Prompt Injection (Indirect/Direct)<br>
+      • Model Jailbreaking Research<br>
+      • Adversarial ML Attack Vectors<br>
+      • AI Guardrail Bypassing<br>
+      • LLM Risk Assessment
     </td>
     <td valign="top">
-      • AWS/Azure Security Hardening<br>
-      • Docker & Container Security<br>
-      • IaC Security Reviews (Terraform)<br>
-      • Zero Trust Architecture<br>
-      • IAM, Secrets & Logging Controls
+      • Cloud Security Hardening<br>
+      • Docker/K8s Isolation<br>
+      • Infrastructure as Code (IaC)<br>
+      • Zero Trust Implementation<br>
+      • Secrets & IAM Management
     </td>
   </tr>
 </table>
 
-**Tool Proficiency** (self-assessed):
-- Metasploit (92%) • Burp Suite (92%) • Nmap (90%) • Hashcat (88%)
-- Python/Bash (Advanced) • Wireshark • sqlmap • Nuclei • Gobuster
-
 ---
 
-### 🛠️ Arsenal
-
+### 🛠️ **The Arsenal (Animated)**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,python,bash,powershell,docker,aws,github,metasploit,burpsuite,nmap,wireshark,postman,pytorch,tensorflow,langchain,mongodb,selenium&theme=dark&perline=8" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=kali,linux,python,bash,powershell,docker,aws,github,metasploit,burpsuite,nmap,wireshark,postman,pytorch,tensorflow,langchain,mongodb,selenium&theme=dark&perline=9" />
 </div>
 
-**Core Stack**: Burp Suite, Metasploit, Nmap, Wireshark, sqlmap, Nuclei, Hashcat, Gobuster/Feroxbuster, BloodHound (emulation), Mimikatz (emulation)
+---
 
-**AI/ML**: PyTorch, TensorFlow, Hugging Face, LangChain, Garak, Promptfoo
+### 🐍 **Contribution Snake**
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
-### 📫 Connect & Collaborate
+### 📫 **Encrypted Communication**
+<div align="center">
 
-Open to **junior red team**, **penetration testing**, **AI security**, bug bounty, SOC analyst, or consulting roles — let's talk tooling, research, or opportunities.
+| Channel | Identifier |
+| :--- | :--- |
+| 💼 **LinkedIn** | [/in/muhammad-khalid-bin-walid](https://www.linkedin.com/in/muhammad-khalid-bin-walid) |
+| 🌍 **Portfolio** | [muhammad-khalid-bin-walid.github.io](https://muhammad-khalid-bin-walid.github.io/Portfolio-Site/) |
+| ✍️ **Medium** | [@muhammadkhalidbinwalid](https://medium.com/@muhammadkhalidbinwalid) |
+| 📧 **Email** | [pentester.walid@gmail.com](mailto:pentester.walid@gmail.com) |
 
-- 📧 pentester.walid@gmail.com  
-- 🌐 Portfolio: https://muhammad-khalid-bin-walid.github.io/Portfolio-Site/  
-- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-khalid-bin-walid/  
-- ✍️ Medium (CVE breakdowns, recon guides, threat reports): https://medium.com/@muhammadkhalidbinwalid  
-- 📍 Location: Pabna Sadar, Bangladesh
+</div>
 
-> “Secure the perimeter by first mastering the attack surface.”
-
-Feel free to fork, star, or reach out — always happy to discuss offensive security, AI vulnerabilities, or collaboration on tools/write-ups.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff9d&height=60&section=footer&text=ADVERSARIAL%20THINKING%20FOR%20A%20SECURE%20FUTURE&fontSize=20&fontColor=000000" />
+</div>
