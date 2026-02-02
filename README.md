@@ -1,65 +1,68 @@
 # 👋 Hello, I'm Muhammad Khalid Bin Walid
-### 🛡️ Junior Red Teamer | AI Security Enthusiast | Ethical Hacker
+### 🛡️ Junior Red Teamer | Junior Penetration Tester | AI Security Enthusiast
 
 <p align="center">
-  <img src="https://github.com/muhammad-khalid-bin-walid.png" width="180" style="border-radius: 50%; border: 3px solid #00ff00; box-shadow: 0 0 20px rgba(0, 255, 0, 0.5);" alt="Profile Picture">
+  <img src="https://github.com/muhammad-khalid-bin-walid.png" width="180" style="border-radius: 50%; border: 3px solid #00ff00; box-shadow: 0 0 25px rgba(0, 255, 0, 0.3);" alt="Profile Picture">
 </p>
 
 <p align="center">
   <a href="https://muhammad-khalid-bin-walid.github.io/Portfolio-Site/">
-    <img src="https://img.shields.io/badge/View_Portfolio-00ff00?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-00ff00?style=for-the-badge&logo=target&logoColor=black" />
   </a>
-  <img src="https://img.shields.io/badge/AI_Security-Enthusiast-blueviolet?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Red_Teaming-Active-red?style=for-the-badge&logo=hack-the-box" />
+  <img src="https://img.shields.io/badge/PENTESTING-CERTIFIED-blue?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_SECURITY-RESEARCH-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
 
 ### 👤 Professional Background
-I am a **passionate Junior Red Teamer** and **AI Enthusiast** driven by the challenge of uncovering vulnerabilities and strengthening digital fortresses. My focus lies in **simulating real-world attacks** and exploring the intersection of **Artificial Intelligence and Cybersecurity** to stay ahead of next-generation threats.
+I am a **passionate Junior Red Teamer and Penetration Tester** with a drive for uncovering vulnerabilities and strengthening cybersecurity defenses. My focus is on **simulating real-world attacks** to identify weaknesses in systems, networks, and applications, helping organizations stay one step ahead of potential threats.
 
-With a solid foundation in **penetration testing, threat analysis, and ethical hacking**, I thrive on thinking like an adversary. Whether it's auditing traditional networks or exploring **LLM prompt injection** and **AI model security**, I am dedicated to making a meaningful impact in a rapidly evolving digital landscape.
-
----
-
-### 💡 Core Competencies
-* **Red Teaming:** Adversarial simulation to identify systemic weaknesses.
-* **AI Security:** Exploring the security of AI/ML models and automated defensive systems.
-* **Vulnerability Management:** Proactive identification and remediation of critical flaws.
-* **Threat Intel:** Analyzing sophisticated patterns to develop predictive defense mechanisms.
+As an **AI Enthusiast**, I thrive at the intersection of **Artificial Intelligence and Cybersecurity**. With a solid foundation in **penetration testing, threat analysis, and ethical hacking**, I excel at thinking like an adversary while building the resilient, enduring safeguards of tomorrow.
 
 ---
 
-### 🎯 Knowledge Base & Keywords (SEO Optimized)
-| Category | Technical Keywords |
-| :--- | :--- |
-| **Offensive Security** | `Red Teaming` • `OWASP Top 10` • `Active Directory` • `Privilege Escalation` |
-| **AI & Emerging Tech** | `LLM Security` • `Prompt Injection` • `Adversarial ML` • `AI-Powered Pentesting` |
-| **Defensive Security** | `SIEM` • `Zero Trust` • `Incident Response` • `Blue Teaming` • `EDR` |
-| **Cloud & Compliance** | `AWS Security` • `Docker/K8s` • `NIST Framework` • `ISO 27001` • `SOC2` |
-
----
-
-### 🚀 Tech Stack & AI Toolkit
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,kali,python,bash,powershell,docker,aws,github,metasploit,wireshark,postman,pytorch&theme=dark" />
+### 🚀 Technical Arsenal & Tooling
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,kali,python,bash,powershell,docker,aws,github,metasploit,wireshark,postman,pytorch,tensorflow,mongodb,selenium&theme=dark" />
 </p>
 
 ---
 
-### 📊 GitHub Impact & Contributions
+### 📊 Security Research & GitHub Metrics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammad-khalid-bin-walid&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-khalid-bin-walid&theme=tokyonight&hide_border=true" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=muhammad-khalid-bin-walid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&title_color=00ff00&icon_color=00ff00" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-khalid-bin-walid&layout=compact&theme=tokyonight&hide_border=false&title_color=00ff00" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-khalid-bin-walid&theme=tokyonight&hide_border=false&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=00ff00" />
+</p>
+
+---
+
+### 🎯 Strategic Knowledge Base (SEO High-Rank)
+| Domain | Core Expertise | Keywords |
+| :--- | :--- | :--- |
+| **Offensive** | **Penetration Testing** | `Web/API Pentesting` • `Network Auditing` • `Exploit Research` |
+| **Adversarial** | **Red Teaming** | `Active Directory` • `Evasion Tactics` • `Lateral Movement` |
+| **Emerging Tech** | **AI Security** | `LLM Prompt Injection` • `Model Robustness` • `AI Defense` |
+| **Infrastucture** | **Cloud Security** | `AWS/Azure Hardening` • `Zero Trust` • `Container Security` |
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammad-khalid-bin-walid&theme=tokyonight&no-bg=true&margin-w=15&column=4" />
 </p>
 
 ---
 
 ### 📫 Contact & Collaboration
-- 🌍 **Portfolio:** [Visit My Site](https://muhammad-khalid-bin-walid.github.io/Portfolio-Site/)
-- ✉️ **Email:** [pentester.walid@gmail.com](mailto:pentester.walid@gmail.com)
-- 🤝 **Open for:** Strategic security initiatives, Red Team projects, and AI-driven security research.
+* 🌍 **Portfolio Site:** [muhammad-khalid-bin-walid.github.io](https://muhammad-khalid-bin-walid.github.io/Portfolio-Site/)
+* 💼 **Contact:** [pentester.walid@gmail.com](mailto:pentester.walid@gmail.com)
+* 🤝 **Seeking:** High-impact Red Teaming opportunities and AI-driven security collaborations.
 
 <p align="right">
-  <i>"Hacking for a safer future, one exploit at a time."</i>
+  <i>"Proactive defense through adversarial excellence."</i>
 </p>
