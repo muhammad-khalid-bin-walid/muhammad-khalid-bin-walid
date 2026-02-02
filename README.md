@@ -1,21 +1,21 @@
-<!-- TOP BANNER: Open Source Capsule Render with Cyberpunk Theme -->
+<!-- HEADER BANNER: Cyber-Grid Aesthetic -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00ff00&height=150&section=header&text=MUHAMMAD%20KHALID%20BIN%20WALID&fontSize=35&animation=twinkling&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00ff00&height=140&section=header&text=MUHAMMAD%20KHALID%20BIN%20WALID&fontSize=35&animation=fadeIn&fontColor=000000" />
 </div>
 
-<!-- TYPING ANIMATION: Dynamic Role Display -->
+<!-- TYPING ANIMATION: Role Evolution -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Junior+Red+Teamer;Junior+Penetration+Tester;AI+Security+Researcher;Building+Resilient+Adversarial+Defenses" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Junior+Red+Teamer;Penetration+Tester;AI+Security+Researcher;Building+Resilient+Adversarial+Defenses" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <img src="https://github.com/muhammad-khalid-bin-walid.png" width="160" style="border-radius: 50%; border: 4px solid #00ff00; box-shadow: 0 0 30px rgba(0, 255, 0, 0.4);" alt="Profile Picture">
 </p>
 
-<!-- DYNAMIC STATUS BADGES -->
+<!-- PORTFOLIO & SOCIALS -->
 <p align="center">
   <a href="https://muhammad-khalid-bin-walid.github.io/Portfolio-Site/">
-    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-000000?style=for-the-badge&logo=target&logoColor=00ff00" />
+    <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-000000?style=for-the-badge&logo=target&logoColor=00ff00" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-khalid-bin-walid">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -27,19 +27,68 @@
 
 ---
 
-### 🛡️ **The Mission & Profile**
-I'm a **passionate Junior Red Teamer** and **Penetration Tester** with a drive for uncovering vulnerabilities and strengthening cybersecurity defenses. My focus is on **simulating real-world attacks** to identify weaknesses in systems, networks, and applications, helping organizations stay one step ahead of potential threats.
+### 👤 **Professional Background**
+I am a **passionate Junior Red Teamer** and **Penetration Tester** with a drive for uncovering vulnerabilities and strengthening cybersecurity defenses. My focus is on **simulating real-world attacks** to identify weaknesses in systems, networks, and applications, helping organizations stay one step ahead of potential threats.
 
 As an **AI Security Enthusiast**, I thrive at the intersection of **Artificial Intelligence and Cybersecurity**. With a solid foundation in **penetration testing, threat analysis, and ethical hacking**, I thrive on the challenge of thinking like an adversary while contributing to a safer digital environment.
 
 ---
 
-### ⚔️ **Red Team & AI Expertise**
+### 🛡️ **Intelligence Dashboard (Core Metrics)**
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=muhammad-khalid-bin-walid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=00ff00" alt="Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-khalid-bin-walid&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff00" alt="Languages" />
+      </td>
+    </tr>
+  </table>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-khalid-bin-walid&theme=tokyonight&hide_border=true&stroke=00ff00&fire=00ff00&ring=00ff00" alt="Streak" />
+</div>
+
+---
+
+### 🚀 **Featured Projects from [Portfolio](https://muhammad-khalid-bin-walid.github.io/Portfolio-Site/)**
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+        <h4>🔍 Network Discovery Toolkit</h4>
+        <p>Custom-built automated reconnaissance script designed for stealthy network enumeration and vulnerability mapping during red team engagements.</p>
+        <code>Bash</code> <code>Nmap</code> <code>Automation</code>
+      </td>
+      <td width="50%" valign="top">
+        <h4>🤖 Adversarial AI Researcher</h4>
+        <p>Researching LLM vulnerabilities, specifically focusing on <b>Prompt Injection</b> and <b>Model Jailbreaking</b> to develop robust guardrails for GenAI applications.</p>
+        <code>Python</code> <code>LangChain</code> <code>AI Security</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h4>🕵️ SOC & Incident Analysis</h4>
+        <p>Simulating and analyzing attack patterns (TTPs) within virtual labs to enhance defensive detection capabilities and incident response workflows.</p>
+        <code>SIEM</code> <code>Threat Intel</code> <code>Metasploit</code>
+      </td>
+      <td width="50%" valign="top">
+        <h4>💻 Web Pentest Laboratory</h4>
+        <p>A collection of documented exploits targeting OWASP Top 10 vulnerabilities including SQLi, XSS, and broken access controls.</p>
+        <code>Burp Suite</code> <code>JS</code> <code>Exploit-Dev</code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### ⚔️ **Technical Domain Expertise**
 <table align="center">
   <tr>
     <th width="33%">Offensive Security</th>
     <th width="33%">AI & Model Security</th>
-    <th width="33%">Cloud & DevSecOps</th>
+    <th width="33%">Infrastructure & Cloud</th>
   </tr>
   <tr>
     <td valign="top">
@@ -75,33 +124,16 @@ As an **AI Security Enthusiast**, I thrive at the intersection of **Artificial I
 
 ---
 
-### 📊 **Intelligence Dashboard**
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=muhammad-khalid-bin-walid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=00ff00" />
-      </td>
-      <td>
-        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-khalid-bin-walid&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff00" />
-      </td>
-    </tr>
-  </table>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-khalid-bin-walid&theme=tokyonight&hide_border=true&stroke=00ff00&fire=00ff00&ring=00ff00" />
-</div>
-
----
-
-### 🐍 **Contribution Flow**
-<div align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-### 🏆 **GitHub Achievements**
+### 🏆 **GitHub Achievements & Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammad-khalid-bin-walid&theme=tokyonight&no-bg=true&margin-w=15&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammad-khalid-bin-walid&theme=tokyonight&no-bg=true&margin-w=20&column=4&rank=-C" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🐍 **Activity Flow**
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -112,7 +144,7 @@ As an **AI Security Enthusiast**, I thrive at the intersection of **Artificial I
 | Channel | Contact Point |
 | :--- | :--- |
 | 💼 **LinkedIn** | [/in/muhammad-khalid-bin-walid](https://www.linkedin.com/in/muhammad-khalid-bin-walid) |
-| 🌍 **Portfolio** | [Portfolio Site](https://muhammad-khalid-bin-walid.github.io/Portfolio-Site/) |
+| 🌍 **Portfolio** | [muhammad-khalid-bin-walid.github.io](https://muhammad-khalid-bin-walid.github.io/Portfolio-Site/) |
 | ✍️ **Medium** | [@muhammadkhalidbinwalid](https://medium.com/@muhammadkhalidbinwalid) |
 | 📧 **Email** | [pentester.walid@gmail.com](mailto:pentester.walid@gmail.com) |
 
