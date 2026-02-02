@@ -139,7 +139,7 @@ I am a **passionate Junior Red Teamer and Penetration Tester** dedicated to iden
 
 ---
 
-### 🛠️ **The Arsenal (Animated)**
+### 🛠️ **The Arsenal **
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kali,linux,python,bash,powershell,docker,aws,github,metasploit,burpsuite,nmap,wireshark,postman,pytorch,tensorflow,langchain,mongodb,selenium&theme=dark&perline=9" />
 </div>
