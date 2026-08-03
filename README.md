@@ -167,8 +167,6 @@ I am a **passionate Junior Red Teamer and Penetration Tester** dedicated to iden
   </picture>
 </p>
 
-> Requires the `snake.yml` workflow (below) running once in your `muhammad-khalid-bin-walid/muhammad-khalid-bin-walid` repo — see setup note at the end.
-
 ---
 
 ### 📫 **Encrypted Communication**
