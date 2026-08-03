@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION: Neon Green Terminal Style -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=650&lines=Junior+Red+Teamer;Penetration+Tester;AI+Security+Researcher;Adversarial+Simulation;Building+Resilient+Defenses" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=650&lines=Junior+Red+Teamer;Penetration+Tester;AI+Security+Researcher;Adversarial+Simulation;Building+Resilient+Defenses" alt="Typing SVG" />
 </div>
 
 <br>
@@ -65,7 +65,7 @@ I am a **passionate Junior Red Teamer and Penetration Tester** dedicated to iden
     <tr>
       <td colspan="2" align="center">
         <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-khalid-bin-walid&theme=tokyonight&hide_border=true&stroke=00ff9d&fire=00ff9d&ring=00ff9d&bg_color=0D1117" width="100%" alt="Streak Card" />
+        <img src="https://streak-stats.demolab.com/?user=muhammad-khalid-bin-walid&theme=tokyonight&hide_border=true&stroke=00ff9d&fire=00ff9d&ring=00ff9d&bg_color=0D1117" width="100%" alt="Streak Card" />
       </td>
     </tr>
   </table>
@@ -148,7 +148,7 @@ I am a **passionate Junior Red Teamer and Penetration Tester** dedicated to iden
 
 ### 🐍 **Contribution Snake**
 <p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/muhammad-khalid-bin-walid/muhammad-khalid-bin-walid/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
