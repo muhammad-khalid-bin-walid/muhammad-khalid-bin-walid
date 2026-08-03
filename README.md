@@ -34,6 +34,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/DEPLOYMENT_STATUS-OPEN_TO_WORK-00ff9d?style=flat-square&logo=git&logoColor=black" />
   <img src="https://img.shields.io/badge/LOCATION-REMOTE/HYBRID-white?style=flat-square&logo=googlemaps&logoColor=red" />
+  <img src="https://komarev.com/ghpvc/?username=muhammad-khalid-bin-walid&label=PROFILE+VIEWS&color=00ff9d&style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="100%" />
 </p>
 
 ---
@@ -146,10 +151,23 @@ I am a **passionate Junior Red Teamer and Penetration Tester** dedicated to iden
 
 ---
 
+### 📡 **Live Activity Feed**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-khalid-bin-walid&theme=react-dark&hide_border=true&bg_color=0D1117&color=00ff9d&line=00ff9d&point=ffffff" width="100%" alt="Activity Graph" />
+</p>
+
+---
+
 ### 🐍 **Contribution Snake**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muhammad-khalid-bin-walid/muhammad-khalid-bin-walid/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammad-khalid-bin-walid/muhammad-khalid-bin-walid/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammad-khalid-bin-walid/muhammad-khalid-bin-walid/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/muhammad-khalid-bin-walid/muhammad-khalid-bin-walid/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </picture>
 </p>
+
+> Requires the `snake.yml` workflow (below) running once in your `muhammad-khalid-bin-walid/muhammad-khalid-bin-walid` repo — see setup note at the end.
 
 ---
 
@@ -164,6 +182,10 @@ I am a **passionate Junior Red Teamer and Penetration Tester** dedicated to iden
 | 📧 **Email** | [pentester.walid@gmail.com](mailto:pentester.walid@gmail.com) |
 
 </div>
+
+---
+
+<sub>⚙️ **Snake setup (one-time):** commit the provided `snake.yml` to `.github/workflows/` in the `muhammad-khalid-bin-walid/muhammad-khalid-bin-walid` repo, run it once via the Actions tab ("Run workflow"), and it self-updates every 12 hours from then on.</sub>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff9d&height=60&section=footer&text=ADVERSARIAL%20THINKING%20FOR%20A%20SECURE%20FUTURE&fontSize=20&fontColor=000000" />
